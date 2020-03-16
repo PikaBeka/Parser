@@ -1,0 +1,4 @@
+https://www.programmableweb.com/api/coronavirus-rest-api-v10 //////
+https://www.who.int/data/gho/info/gho-odata-api ///// WHO website
+
+http://astana.gov.kz/ru/    /// Nur sultan city website
